@@ -10,8 +10,7 @@
 
 <br/>
 
-<!-- Badges row 1 -->
-[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Min SDK](https://img.shields.io/badge/Min%20SDK-26%20(Android%208)-orange?style=for-the-badge&logo=android)](https://developer.android.com)
@@ -23,9 +22,6 @@
 [![Stars](https://img.shields.io/github/stars/username/nadaku?style=for-the-badge&color=FFD84D)](https://github.com)
 
 <br/>
-
-<!-- Animated piano keys GIF placeholder using SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=500&pause=100&color=3D4E6B&center=true&vCenter=true&multiline=false&width=500&height=40&lines=♩+DO+♩+RE+♩+MI+♩+FA+♩+SOL+♩+LA+♩+TI+♩" alt="Piano keys animation"/>
 
 </div>
 
