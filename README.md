@@ -5,12 +5,12 @@
 
 <br/>
 
-<!-- Animated wave separator -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A4DC9&height=120&section=header&text=NadaKu%20%E2%80%94%20Piano%20%26%20Belajar%20Musik&fontSize=28&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
+
 
 <br/>
 
-
+<!-- Badges row 1 -->
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Min SDK](https://img.shields.io/badge/Min%20SDK-26%20(Android%208)-orange?style=for-the-badge&logo=android)](https://developer.android.com)
