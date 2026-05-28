@@ -36,7 +36,7 @@
 <div align="center">
 
 <!-- Animated counter stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=14&duration=2000&pause=500&color=1A4DC9&center=true&vCenter=true&multiline=true&width=600&height=60&lines=50%2B+Lagu+Tersedia+%7C+10+Halaman+UI+%7C+3+Mode+Bermain+%7C+100%25+Offline" alt="Stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=14&duration=2000&pause=500&color=1A4DC9&center=true&vCenter=true&multiline=true&width=600&height=60&lines=3%2B+Lagu+Tersedia+%7C+10+Halaman+UI+%7C+3+Mode+Bermain+%7C+100%25+Offline" alt="Stats"/>
 
 </div>
 
